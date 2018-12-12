@@ -15,4 +15,5 @@ NA
 
 ## Notes
 
-Hi
+SEE REPO HERE for my work: https://github.com/MackQian/rcos-oscp
+
