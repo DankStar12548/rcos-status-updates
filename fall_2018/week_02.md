@@ -14,4 +14,5 @@ I don't know python, but I do know Java and C++, so it should be fine
 
 ## Notes
 
-Hi
+SEE REPO HERE for my work: https://github.com/MackQian/rcos-oscp
+
