@@ -14,4 +14,5 @@ no, pythons simple enough to learn with my prior programming knowledge
 
 ## Notes
 
-Hi
+SEE REPO HERE for my work: https://github.com/MackQian/rcos-oscp
+
